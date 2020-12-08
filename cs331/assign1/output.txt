@@ -1,0 +1,4270 @@
+	left bank
+		0 chickens
+		0 wolves
+	right bank
+		99 chickens
+		96 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		1 chickens
+		1 wolves
+	right bank
+		98 chickens
+		95 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		1 chickens
+		0 wolves
+	right bank
+		98 chickens
+		96 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		2 chickens
+		1 wolves
+	right bank
+		97 chickens
+		95 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		2 chickens
+		0 wolves
+	right bank
+		97 chickens
+		96 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		3 chickens
+		1 wolves
+	right bank
+		96 chickens
+		95 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		3 chickens
+		0 wolves
+	right bank
+		96 chickens
+		96 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		4 chickens
+		1 wolves
+	right bank
+		95 chickens
+		95 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		3 chickens
+		1 wolves
+	right bank
+		96 chickens
+		95 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		4 chickens
+		2 wolves
+	right bank
+		95 chickens
+		94 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		4 chickens
+		1 wolves
+	right bank
+		95 chickens
+		95 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		5 chickens
+		2 wolves
+	right bank
+		94 chickens
+		94 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		4 chickens
+		2 wolves
+	right bank
+		95 chickens
+		94 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		5 chickens
+		3 wolves
+	right bank
+		94 chickens
+		93 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		5 chickens
+		2 wolves
+	right bank
+		94 chickens
+		94 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		6 chickens
+		3 wolves
+	right bank
+		93 chickens
+		93 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		5 chickens
+		3 wolves
+	right bank
+		94 chickens
+		93 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		6 chickens
+		4 wolves
+	right bank
+		93 chickens
+		92 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		6 chickens
+		3 wolves
+	right bank
+		93 chickens
+		93 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		7 chickens
+		4 wolves
+	right bank
+		92 chickens
+		92 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		6 chickens
+		4 wolves
+	right bank
+		93 chickens
+		92 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		7 chickens
+		5 wolves
+	right bank
+		92 chickens
+		91 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		7 chickens
+		4 wolves
+	right bank
+		92 chickens
+		92 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		8 chickens
+		5 wolves
+	right bank
+		91 chickens
+		91 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		7 chickens
+		5 wolves
+	right bank
+		92 chickens
+		91 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		8 chickens
+		6 wolves
+	right bank
+		91 chickens
+		90 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		8 chickens
+		5 wolves
+	right bank
+		91 chickens
+		91 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		9 chickens
+		6 wolves
+	right bank
+		90 chickens
+		90 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		8 chickens
+		6 wolves
+	right bank
+		91 chickens
+		90 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		9 chickens
+		7 wolves
+	right bank
+		90 chickens
+		89 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		9 chickens
+		6 wolves
+	right bank
+		90 chickens
+		90 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		10 chickens
+		7 wolves
+	right bank
+		89 chickens
+		89 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		9 chickens
+		7 wolves
+	right bank
+		90 chickens
+		89 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		10 chickens
+		8 wolves
+	right bank
+		89 chickens
+		88 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		10 chickens
+		7 wolves
+	right bank
+		89 chickens
+		89 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		11 chickens
+		8 wolves
+	right bank
+		88 chickens
+		88 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		10 chickens
+		8 wolves
+	right bank
+		89 chickens
+		88 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		11 chickens
+		9 wolves
+	right bank
+		88 chickens
+		87 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		11 chickens
+		8 wolves
+	right bank
+		88 chickens
+		88 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		12 chickens
+		9 wolves
+	right bank
+		87 chickens
+		87 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		11 chickens
+		9 wolves
+	right bank
+		88 chickens
+		87 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		12 chickens
+		10 wolves
+	right bank
+		87 chickens
+		86 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		12 chickens
+		9 wolves
+	right bank
+		87 chickens
+		87 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		13 chickens
+		10 wolves
+	right bank
+		86 chickens
+		86 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		12 chickens
+		10 wolves
+	right bank
+		87 chickens
+		86 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		13 chickens
+		11 wolves
+	right bank
+		86 chickens
+		85 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		13 chickens
+		10 wolves
+	right bank
+		86 chickens
+		86 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		14 chickens
+		11 wolves
+	right bank
+		85 chickens
+		85 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		13 chickens
+		11 wolves
+	right bank
+		86 chickens
+		85 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		14 chickens
+		12 wolves
+	right bank
+		85 chickens
+		84 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		14 chickens
+		11 wolves
+	right bank
+		85 chickens
+		85 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		15 chickens
+		12 wolves
+	right bank
+		84 chickens
+		84 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		14 chickens
+		12 wolves
+	right bank
+		85 chickens
+		84 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		15 chickens
+		13 wolves
+	right bank
+		84 chickens
+		83 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		15 chickens
+		12 wolves
+	right bank
+		84 chickens
+		84 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		16 chickens
+		13 wolves
+	right bank
+		83 chickens
+		83 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		15 chickens
+		13 wolves
+	right bank
+		84 chickens
+		83 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		16 chickens
+		14 wolves
+	right bank
+		83 chickens
+		82 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		16 chickens
+		13 wolves
+	right bank
+		83 chickens
+		83 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		17 chickens
+		14 wolves
+	right bank
+		82 chickens
+		82 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		16 chickens
+		14 wolves
+	right bank
+		83 chickens
+		82 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		17 chickens
+		15 wolves
+	right bank
+		82 chickens
+		81 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		17 chickens
+		14 wolves
+	right bank
+		82 chickens
+		82 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		18 chickens
+		15 wolves
+	right bank
+		81 chickens
+		81 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		17 chickens
+		15 wolves
+	right bank
+		82 chickens
+		81 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		18 chickens
+		16 wolves
+	right bank
+		81 chickens
+		80 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		18 chickens
+		15 wolves
+	right bank
+		81 chickens
+		81 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		19 chickens
+		16 wolves
+	right bank
+		80 chickens
+		80 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		18 chickens
+		16 wolves
+	right bank
+		81 chickens
+		80 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		19 chickens
+		17 wolves
+	right bank
+		80 chickens
+		79 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		19 chickens
+		16 wolves
+	right bank
+		80 chickens
+		80 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		20 chickens
+		17 wolves
+	right bank
+		79 chickens
+		79 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		19 chickens
+		17 wolves
+	right bank
+		80 chickens
+		79 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		20 chickens
+		18 wolves
+	right bank
+		79 chickens
+		78 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		20 chickens
+		17 wolves
+	right bank
+		79 chickens
+		79 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		21 chickens
+		18 wolves
+	right bank
+		78 chickens
+		78 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		20 chickens
+		18 wolves
+	right bank
+		79 chickens
+		78 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		21 chickens
+		19 wolves
+	right bank
+		78 chickens
+		77 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		21 chickens
+		18 wolves
+	right bank
+		78 chickens
+		78 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		22 chickens
+		19 wolves
+	right bank
+		77 chickens
+		77 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		21 chickens
+		19 wolves
+	right bank
+		78 chickens
+		77 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		22 chickens
+		20 wolves
+	right bank
+		77 chickens
+		76 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		22 chickens
+		19 wolves
+	right bank
+		77 chickens
+		77 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		23 chickens
+		20 wolves
+	right bank
+		76 chickens
+		76 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		22 chickens
+		20 wolves
+	right bank
+		77 chickens
+		76 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		23 chickens
+		21 wolves
+	right bank
+		76 chickens
+		75 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		23 chickens
+		20 wolves
+	right bank
+		76 chickens
+		76 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		24 chickens
+		21 wolves
+	right bank
+		75 chickens
+		75 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		23 chickens
+		21 wolves
+	right bank
+		76 chickens
+		75 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		24 chickens
+		22 wolves
+	right bank
+		75 chickens
+		74 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		24 chickens
+		21 wolves
+	right bank
+		75 chickens
+		75 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		25 chickens
+		22 wolves
+	right bank
+		74 chickens
+		74 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		24 chickens
+		22 wolves
+	right bank
+		75 chickens
+		74 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		25 chickens
+		23 wolves
+	right bank
+		74 chickens
+		73 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		25 chickens
+		22 wolves
+	right bank
+		74 chickens
+		74 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		26 chickens
+		23 wolves
+	right bank
+		73 chickens
+		73 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		25 chickens
+		23 wolves
+	right bank
+		74 chickens
+		73 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		26 chickens
+		24 wolves
+	right bank
+		73 chickens
+		72 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		26 chickens
+		23 wolves
+	right bank
+		73 chickens
+		73 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		27 chickens
+		24 wolves
+	right bank
+		72 chickens
+		72 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		26 chickens
+		24 wolves
+	right bank
+		73 chickens
+		72 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		27 chickens
+		25 wolves
+	right bank
+		72 chickens
+		71 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		27 chickens
+		24 wolves
+	right bank
+		72 chickens
+		72 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		28 chickens
+		25 wolves
+	right bank
+		71 chickens
+		71 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		27 chickens
+		25 wolves
+	right bank
+		72 chickens
+		71 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		28 chickens
+		26 wolves
+	right bank
+		71 chickens
+		70 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		28 chickens
+		25 wolves
+	right bank
+		71 chickens
+		71 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		29 chickens
+		26 wolves
+	right bank
+		70 chickens
+		70 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		28 chickens
+		26 wolves
+	right bank
+		71 chickens
+		70 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		29 chickens
+		27 wolves
+	right bank
+		70 chickens
+		69 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		29 chickens
+		26 wolves
+	right bank
+		70 chickens
+		70 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		30 chickens
+		27 wolves
+	right bank
+		69 chickens
+		69 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		29 chickens
+		27 wolves
+	right bank
+		70 chickens
+		69 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		30 chickens
+		28 wolves
+	right bank
+		69 chickens
+		68 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		30 chickens
+		27 wolves
+	right bank
+		69 chickens
+		69 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		31 chickens
+		28 wolves
+	right bank
+		68 chickens
+		68 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		30 chickens
+		28 wolves
+	right bank
+		69 chickens
+		68 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		31 chickens
+		29 wolves
+	right bank
+		68 chickens
+		67 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		31 chickens
+		28 wolves
+	right bank
+		68 chickens
+		68 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		32 chickens
+		29 wolves
+	right bank
+		67 chickens
+		67 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		31 chickens
+		29 wolves
+	right bank
+		68 chickens
+		67 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		32 chickens
+		30 wolves
+	right bank
+		67 chickens
+		66 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		32 chickens
+		29 wolves
+	right bank
+		67 chickens
+		67 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		33 chickens
+		30 wolves
+	right bank
+		66 chickens
+		66 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		32 chickens
+		30 wolves
+	right bank
+		67 chickens
+		66 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		33 chickens
+		31 wolves
+	right bank
+		66 chickens
+		65 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		33 chickens
+		30 wolves
+	right bank
+		66 chickens
+		66 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		34 chickens
+		31 wolves
+	right bank
+		65 chickens
+		65 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		33 chickens
+		31 wolves
+	right bank
+		66 chickens
+		65 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		34 chickens
+		32 wolves
+	right bank
+		65 chickens
+		64 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		34 chickens
+		31 wolves
+	right bank
+		65 chickens
+		65 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		35 chickens
+		32 wolves
+	right bank
+		64 chickens
+		64 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		34 chickens
+		32 wolves
+	right bank
+		65 chickens
+		64 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		35 chickens
+		33 wolves
+	right bank
+		64 chickens
+		63 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		35 chickens
+		32 wolves
+	right bank
+		64 chickens
+		64 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		36 chickens
+		33 wolves
+	right bank
+		63 chickens
+		63 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		35 chickens
+		33 wolves
+	right bank
+		64 chickens
+		63 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		36 chickens
+		34 wolves
+	right bank
+		63 chickens
+		62 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		36 chickens
+		33 wolves
+	right bank
+		63 chickens
+		63 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		37 chickens
+		34 wolves
+	right bank
+		62 chickens
+		62 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		36 chickens
+		34 wolves
+	right bank
+		63 chickens
+		62 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		37 chickens
+		35 wolves
+	right bank
+		62 chickens
+		61 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		37 chickens
+		34 wolves
+	right bank
+		62 chickens
+		62 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		38 chickens
+		35 wolves
+	right bank
+		61 chickens
+		61 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		37 chickens
+		35 wolves
+	right bank
+		62 chickens
+		61 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		38 chickens
+		36 wolves
+	right bank
+		61 chickens
+		60 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		38 chickens
+		35 wolves
+	right bank
+		61 chickens
+		61 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		39 chickens
+		36 wolves
+	right bank
+		60 chickens
+		60 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		38 chickens
+		36 wolves
+	right bank
+		61 chickens
+		60 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		39 chickens
+		37 wolves
+	right bank
+		60 chickens
+		59 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		39 chickens
+		36 wolves
+	right bank
+		60 chickens
+		60 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		40 chickens
+		37 wolves
+	right bank
+		59 chickens
+		59 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		39 chickens
+		37 wolves
+	right bank
+		60 chickens
+		59 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		40 chickens
+		38 wolves
+	right bank
+		59 chickens
+		58 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		40 chickens
+		37 wolves
+	right bank
+		59 chickens
+		59 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		41 chickens
+		38 wolves
+	right bank
+		58 chickens
+		58 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		40 chickens
+		38 wolves
+	right bank
+		59 chickens
+		58 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		41 chickens
+		39 wolves
+	right bank
+		58 chickens
+		57 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		41 chickens
+		38 wolves
+	right bank
+		58 chickens
+		58 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		42 chickens
+		39 wolves
+	right bank
+		57 chickens
+		57 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		41 chickens
+		39 wolves
+	right bank
+		58 chickens
+		57 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		42 chickens
+		40 wolves
+	right bank
+		57 chickens
+		56 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		42 chickens
+		39 wolves
+	right bank
+		57 chickens
+		57 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		43 chickens
+		40 wolves
+	right bank
+		56 chickens
+		56 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		42 chickens
+		40 wolves
+	right bank
+		57 chickens
+		56 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		43 chickens
+		41 wolves
+	right bank
+		56 chickens
+		55 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		43 chickens
+		40 wolves
+	right bank
+		56 chickens
+		56 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		44 chickens
+		41 wolves
+	right bank
+		55 chickens
+		55 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		43 chickens
+		41 wolves
+	right bank
+		56 chickens
+		55 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		44 chickens
+		42 wolves
+	right bank
+		55 chickens
+		54 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		44 chickens
+		41 wolves
+	right bank
+		55 chickens
+		55 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		45 chickens
+		42 wolves
+	right bank
+		54 chickens
+		54 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		44 chickens
+		42 wolves
+	right bank
+		55 chickens
+		54 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		45 chickens
+		43 wolves
+	right bank
+		54 chickens
+		53 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		45 chickens
+		42 wolves
+	right bank
+		54 chickens
+		54 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		46 chickens
+		43 wolves
+	right bank
+		53 chickens
+		53 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		45 chickens
+		43 wolves
+	right bank
+		54 chickens
+		53 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		46 chickens
+		44 wolves
+	right bank
+		53 chickens
+		52 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		46 chickens
+		43 wolves
+	right bank
+		53 chickens
+		53 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		47 chickens
+		44 wolves
+	right bank
+		52 chickens
+		52 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		46 chickens
+		44 wolves
+	right bank
+		53 chickens
+		52 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		47 chickens
+		45 wolves
+	right bank
+		52 chickens
+		51 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		47 chickens
+		44 wolves
+	right bank
+		52 chickens
+		52 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		48 chickens
+		45 wolves
+	right bank
+		51 chickens
+		51 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		47 chickens
+		45 wolves
+	right bank
+		52 chickens
+		51 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		48 chickens
+		46 wolves
+	right bank
+		51 chickens
+		50 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		48 chickens
+		45 wolves
+	right bank
+		51 chickens
+		51 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		49 chickens
+		46 wolves
+	right bank
+		50 chickens
+		50 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		48 chickens
+		46 wolves
+	right bank
+		51 chickens
+		50 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		49 chickens
+		47 wolves
+	right bank
+		50 chickens
+		49 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		49 chickens
+		46 wolves
+	right bank
+		50 chickens
+		50 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		50 chickens
+		47 wolves
+	right bank
+		49 chickens
+		49 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		49 chickens
+		47 wolves
+	right bank
+		50 chickens
+		49 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		50 chickens
+		48 wolves
+	right bank
+		49 chickens
+		48 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		50 chickens
+		47 wolves
+	right bank
+		49 chickens
+		49 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		51 chickens
+		48 wolves
+	right bank
+		48 chickens
+		48 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		50 chickens
+		48 wolves
+	right bank
+		49 chickens
+		48 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		51 chickens
+		49 wolves
+	right bank
+		48 chickens
+		47 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		51 chickens
+		48 wolves
+	right bank
+		48 chickens
+		48 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		52 chickens
+		49 wolves
+	right bank
+		47 chickens
+		47 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		51 chickens
+		49 wolves
+	right bank
+		48 chickens
+		47 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		52 chickens
+		50 wolves
+	right bank
+		47 chickens
+		46 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		52 chickens
+		49 wolves
+	right bank
+		47 chickens
+		47 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		53 chickens
+		50 wolves
+	right bank
+		46 chickens
+		46 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		52 chickens
+		50 wolves
+	right bank
+		47 chickens
+		46 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		53 chickens
+		51 wolves
+	right bank
+		46 chickens
+		45 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		53 chickens
+		50 wolves
+	right bank
+		46 chickens
+		46 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		54 chickens
+		51 wolves
+	right bank
+		45 chickens
+		45 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		53 chickens
+		51 wolves
+	right bank
+		46 chickens
+		45 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		54 chickens
+		52 wolves
+	right bank
+		45 chickens
+		44 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		54 chickens
+		51 wolves
+	right bank
+		45 chickens
+		45 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		55 chickens
+		52 wolves
+	right bank
+		44 chickens
+		44 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		54 chickens
+		52 wolves
+	right bank
+		45 chickens
+		44 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		55 chickens
+		53 wolves
+	right bank
+		44 chickens
+		43 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		55 chickens
+		52 wolves
+	right bank
+		44 chickens
+		44 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		56 chickens
+		53 wolves
+	right bank
+		43 chickens
+		43 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		55 chickens
+		53 wolves
+	right bank
+		44 chickens
+		43 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		56 chickens
+		54 wolves
+	right bank
+		43 chickens
+		42 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		56 chickens
+		53 wolves
+	right bank
+		43 chickens
+		43 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		57 chickens
+		54 wolves
+	right bank
+		42 chickens
+		42 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		56 chickens
+		54 wolves
+	right bank
+		43 chickens
+		42 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		57 chickens
+		55 wolves
+	right bank
+		42 chickens
+		41 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		57 chickens
+		54 wolves
+	right bank
+		42 chickens
+		42 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		58 chickens
+		55 wolves
+	right bank
+		41 chickens
+		41 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		57 chickens
+		55 wolves
+	right bank
+		42 chickens
+		41 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		58 chickens
+		56 wolves
+	right bank
+		41 chickens
+		40 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		58 chickens
+		55 wolves
+	right bank
+		41 chickens
+		41 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		59 chickens
+		56 wolves
+	right bank
+		40 chickens
+		40 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		58 chickens
+		56 wolves
+	right bank
+		41 chickens
+		40 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		59 chickens
+		57 wolves
+	right bank
+		40 chickens
+		39 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		59 chickens
+		56 wolves
+	right bank
+		40 chickens
+		40 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		60 chickens
+		57 wolves
+	right bank
+		39 chickens
+		39 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		59 chickens
+		57 wolves
+	right bank
+		40 chickens
+		39 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		60 chickens
+		58 wolves
+	right bank
+		39 chickens
+		38 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		60 chickens
+		57 wolves
+	right bank
+		39 chickens
+		39 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		61 chickens
+		58 wolves
+	right bank
+		38 chickens
+		38 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		60 chickens
+		58 wolves
+	right bank
+		39 chickens
+		38 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		61 chickens
+		59 wolves
+	right bank
+		38 chickens
+		37 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		61 chickens
+		58 wolves
+	right bank
+		38 chickens
+		38 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		62 chickens
+		59 wolves
+	right bank
+		37 chickens
+		37 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		61 chickens
+		59 wolves
+	right bank
+		38 chickens
+		37 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		62 chickens
+		60 wolves
+	right bank
+		37 chickens
+		36 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		62 chickens
+		59 wolves
+	right bank
+		37 chickens
+		37 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		63 chickens
+		60 wolves
+	right bank
+		36 chickens
+		36 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		62 chickens
+		60 wolves
+	right bank
+		37 chickens
+		36 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		63 chickens
+		61 wolves
+	right bank
+		36 chickens
+		35 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		63 chickens
+		60 wolves
+	right bank
+		36 chickens
+		36 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		64 chickens
+		61 wolves
+	right bank
+		35 chickens
+		35 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		63 chickens
+		61 wolves
+	right bank
+		36 chickens
+		35 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		64 chickens
+		62 wolves
+	right bank
+		35 chickens
+		34 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		64 chickens
+		61 wolves
+	right bank
+		35 chickens
+		35 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		65 chickens
+		62 wolves
+	right bank
+		34 chickens
+		34 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		64 chickens
+		62 wolves
+	right bank
+		35 chickens
+		34 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		65 chickens
+		63 wolves
+	right bank
+		34 chickens
+		33 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		65 chickens
+		62 wolves
+	right bank
+		34 chickens
+		34 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		66 chickens
+		63 wolves
+	right bank
+		33 chickens
+		33 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		65 chickens
+		63 wolves
+	right bank
+		34 chickens
+		33 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		66 chickens
+		64 wolves
+	right bank
+		33 chickens
+		32 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		66 chickens
+		63 wolves
+	right bank
+		33 chickens
+		33 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		67 chickens
+		64 wolves
+	right bank
+		32 chickens
+		32 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		66 chickens
+		64 wolves
+	right bank
+		33 chickens
+		32 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		67 chickens
+		65 wolves
+	right bank
+		32 chickens
+		31 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		67 chickens
+		64 wolves
+	right bank
+		32 chickens
+		32 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		68 chickens
+		65 wolves
+	right bank
+		31 chickens
+		31 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		67 chickens
+		65 wolves
+	right bank
+		32 chickens
+		31 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		68 chickens
+		66 wolves
+	right bank
+		31 chickens
+		30 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		68 chickens
+		65 wolves
+	right bank
+		31 chickens
+		31 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		69 chickens
+		66 wolves
+	right bank
+		30 chickens
+		30 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		68 chickens
+		66 wolves
+	right bank
+		31 chickens
+		30 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		69 chickens
+		67 wolves
+	right bank
+		30 chickens
+		29 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		69 chickens
+		66 wolves
+	right bank
+		30 chickens
+		30 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		70 chickens
+		67 wolves
+	right bank
+		29 chickens
+		29 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		69 chickens
+		67 wolves
+	right bank
+		30 chickens
+		29 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		70 chickens
+		68 wolves
+	right bank
+		29 chickens
+		28 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		70 chickens
+		67 wolves
+	right bank
+		29 chickens
+		29 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		71 chickens
+		68 wolves
+	right bank
+		28 chickens
+		28 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		70 chickens
+		68 wolves
+	right bank
+		29 chickens
+		28 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		71 chickens
+		69 wolves
+	right bank
+		28 chickens
+		27 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		71 chickens
+		68 wolves
+	right bank
+		28 chickens
+		28 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		72 chickens
+		69 wolves
+	right bank
+		27 chickens
+		27 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		71 chickens
+		69 wolves
+	right bank
+		28 chickens
+		27 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		72 chickens
+		70 wolves
+	right bank
+		27 chickens
+		26 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		72 chickens
+		69 wolves
+	right bank
+		27 chickens
+		27 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		73 chickens
+		70 wolves
+	right bank
+		26 chickens
+		26 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		72 chickens
+		70 wolves
+	right bank
+		27 chickens
+		26 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		73 chickens
+		71 wolves
+	right bank
+		26 chickens
+		25 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		73 chickens
+		70 wolves
+	right bank
+		26 chickens
+		26 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		74 chickens
+		71 wolves
+	right bank
+		25 chickens
+		25 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		73 chickens
+		71 wolves
+	right bank
+		26 chickens
+		25 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		74 chickens
+		72 wolves
+	right bank
+		25 chickens
+		24 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		74 chickens
+		71 wolves
+	right bank
+		25 chickens
+		25 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		75 chickens
+		72 wolves
+	right bank
+		24 chickens
+		24 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		74 chickens
+		72 wolves
+	right bank
+		25 chickens
+		24 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		75 chickens
+		73 wolves
+	right bank
+		24 chickens
+		23 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		75 chickens
+		72 wolves
+	right bank
+		24 chickens
+		24 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		76 chickens
+		73 wolves
+	right bank
+		23 chickens
+		23 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		75 chickens
+		73 wolves
+	right bank
+		24 chickens
+		23 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		76 chickens
+		74 wolves
+	right bank
+		23 chickens
+		22 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		76 chickens
+		73 wolves
+	right bank
+		23 chickens
+		23 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		77 chickens
+		74 wolves
+	right bank
+		22 chickens
+		22 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		76 chickens
+		74 wolves
+	right bank
+		23 chickens
+		22 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		77 chickens
+		75 wolves
+	right bank
+		22 chickens
+		21 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		77 chickens
+		74 wolves
+	right bank
+		22 chickens
+		22 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		78 chickens
+		75 wolves
+	right bank
+		21 chickens
+		21 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		77 chickens
+		75 wolves
+	right bank
+		22 chickens
+		21 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		78 chickens
+		76 wolves
+	right bank
+		21 chickens
+		20 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		78 chickens
+		75 wolves
+	right bank
+		21 chickens
+		21 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		79 chickens
+		76 wolves
+	right bank
+		20 chickens
+		20 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		78 chickens
+		76 wolves
+	right bank
+		21 chickens
+		20 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		79 chickens
+		77 wolves
+	right bank
+		20 chickens
+		19 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		79 chickens
+		76 wolves
+	right bank
+		20 chickens
+		20 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		80 chickens
+		77 wolves
+	right bank
+		19 chickens
+		19 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		79 chickens
+		77 wolves
+	right bank
+		20 chickens
+		19 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		80 chickens
+		78 wolves
+	right bank
+		19 chickens
+		18 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		80 chickens
+		77 wolves
+	right bank
+		19 chickens
+		19 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		81 chickens
+		78 wolves
+	right bank
+		18 chickens
+		18 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		80 chickens
+		78 wolves
+	right bank
+		19 chickens
+		18 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		81 chickens
+		79 wolves
+	right bank
+		18 chickens
+		17 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		81 chickens
+		78 wolves
+	right bank
+		18 chickens
+		18 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		82 chickens
+		79 wolves
+	right bank
+		17 chickens
+		17 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		81 chickens
+		79 wolves
+	right bank
+		18 chickens
+		17 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		82 chickens
+		80 wolves
+	right bank
+		17 chickens
+		16 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		82 chickens
+		79 wolves
+	right bank
+		17 chickens
+		17 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		83 chickens
+		80 wolves
+	right bank
+		16 chickens
+		16 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		82 chickens
+		80 wolves
+	right bank
+		17 chickens
+		16 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		83 chickens
+		81 wolves
+	right bank
+		16 chickens
+		15 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		83 chickens
+		80 wolves
+	right bank
+		16 chickens
+		16 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		84 chickens
+		81 wolves
+	right bank
+		15 chickens
+		15 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		83 chickens
+		81 wolves
+	right bank
+		16 chickens
+		15 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		84 chickens
+		82 wolves
+	right bank
+		15 chickens
+		14 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		84 chickens
+		81 wolves
+	right bank
+		15 chickens
+		15 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		85 chickens
+		82 wolves
+	right bank
+		14 chickens
+		14 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		84 chickens
+		82 wolves
+	right bank
+		15 chickens
+		14 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		85 chickens
+		83 wolves
+	right bank
+		14 chickens
+		13 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		85 chickens
+		82 wolves
+	right bank
+		14 chickens
+		14 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		86 chickens
+		83 wolves
+	right bank
+		13 chickens
+		13 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		85 chickens
+		83 wolves
+	right bank
+		14 chickens
+		13 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		86 chickens
+		84 wolves
+	right bank
+		13 chickens
+		12 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		86 chickens
+		83 wolves
+	right bank
+		13 chickens
+		13 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		87 chickens
+		84 wolves
+	right bank
+		12 chickens
+		12 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		86 chickens
+		84 wolves
+	right bank
+		13 chickens
+		12 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		87 chickens
+		85 wolves
+	right bank
+		12 chickens
+		11 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		87 chickens
+		84 wolves
+	right bank
+		12 chickens
+		12 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		88 chickens
+		85 wolves
+	right bank
+		11 chickens
+		11 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		87 chickens
+		85 wolves
+	right bank
+		12 chickens
+		11 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		88 chickens
+		86 wolves
+	right bank
+		11 chickens
+		10 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		88 chickens
+		85 wolves
+	right bank
+		11 chickens
+		11 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		89 chickens
+		86 wolves
+	right bank
+		10 chickens
+		10 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		88 chickens
+		86 wolves
+	right bank
+		11 chickens
+		10 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		89 chickens
+		87 wolves
+	right bank
+		10 chickens
+		9 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		89 chickens
+		86 wolves
+	right bank
+		10 chickens
+		10 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		90 chickens
+		87 wolves
+	right bank
+		9 chickens
+		9 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		89 chickens
+		87 wolves
+	right bank
+		10 chickens
+		9 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		90 chickens
+		88 wolves
+	right bank
+		9 chickens
+		8 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		90 chickens
+		87 wolves
+	right bank
+		9 chickens
+		9 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		91 chickens
+		88 wolves
+	right bank
+		8 chickens
+		8 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		90 chickens
+		88 wolves
+	right bank
+		9 chickens
+		8 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		91 chickens
+		89 wolves
+	right bank
+		8 chickens
+		7 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		91 chickens
+		88 wolves
+	right bank
+		8 chickens
+		8 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		92 chickens
+		89 wolves
+	right bank
+		7 chickens
+		7 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		91 chickens
+		89 wolves
+	right bank
+		8 chickens
+		7 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		92 chickens
+		90 wolves
+	right bank
+		7 chickens
+		6 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		92 chickens
+		89 wolves
+	right bank
+		7 chickens
+		7 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		93 chickens
+		90 wolves
+	right bank
+		6 chickens
+		6 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		92 chickens
+		90 wolves
+	right bank
+		7 chickens
+		6 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		93 chickens
+		91 wolves
+	right bank
+		6 chickens
+		5 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		93 chickens
+		90 wolves
+	right bank
+		6 chickens
+		6 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		94 chickens
+		91 wolves
+	right bank
+		5 chickens
+		5 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		93 chickens
+		91 wolves
+	right bank
+		6 chickens
+		5 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		94 chickens
+		92 wolves
+	right bank
+		5 chickens
+		4 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		94 chickens
+		91 wolves
+	right bank
+		5 chickens
+		5 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		95 chickens
+		92 wolves
+	right bank
+		4 chickens
+		4 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		94 chickens
+		92 wolves
+	right bank
+		5 chickens
+		4 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		95 chickens
+		93 wolves
+	right bank
+		4 chickens
+		3 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		95 chickens
+		92 wolves
+	right bank
+		4 chickens
+		4 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		96 chickens
+		93 wolves
+	right bank
+		3 chickens
+		3 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		95 chickens
+		93 wolves
+	right bank
+		4 chickens
+		3 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		96 chickens
+		94 wolves
+	right bank
+		3 chickens
+		2 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		96 chickens
+		93 wolves
+	right bank
+		3 chickens
+		3 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		97 chickens
+		94 wolves
+	right bank
+		2 chickens
+		2 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		96 chickens
+		94 wolves
+	right bank
+		3 chickens
+		2 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		97 chickens
+		95 wolves
+	right bank
+		2 chickens
+		1 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		97 chickens
+		94 wolves
+	right bank
+		2 chickens
+		2 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		98 chickens
+		95 wolves
+	right bank
+		1 chickens
+		1 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		97 chickens
+		95 wolves
+	right bank
+		2 chickens
+		1 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		98 chickens
+		96 wolves
+	right bank
+		1 chickens
+		0 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+	left bank
+		98 chickens
+		95 wolves
+	right bank
+		1 chickens
+		1 wolves
+		boat is on right bank
+
+
+---------------------------------------------------------
+
+	left bank
+		99 chickens
+		96 wolves
+	right bank
+		0 chickens
+		0 wolves
+		boat is on left bank
+
+
+---------------------------------------------------------
+
+soultion is 387 nodes
+75466 nodes explanded in total

@@ -1,0 +1,2 @@
+	
+	g++ -std=c++0x Board.cpp OthelloBoard.cpp Player.cpp HumanPlayer.cpp GameDriver.cpp MinimaxPlayer.cpp -o othello

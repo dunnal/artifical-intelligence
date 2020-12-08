@@ -1,0 +1,4 @@
+training accuracy is 0.9499
+test accuracy is 0.734203
+
+we used the training data as traning, and then tested it on both the traningSet and testSet, with accuracy as you see above
